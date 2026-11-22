@@ -4,12 +4,12 @@
   "redirects": [
     {
       "source": "/espace-client/",
-      "destination": "https://espace-coaching-sand.vercel.app",
+      "destination": "https://brh-coaching-app.vercel.app",
       "permanent": false
     },
     {
       "source": "/app/",
-      "destination": "https://espace-coaching-sand.vercel.app",
+      "destination": "https://brh-coaching-app.vercel.app",
       "permanent": false
     },
     {
