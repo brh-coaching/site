@@ -3,27 +3,27 @@
   "trailingSlash": true,
   "redirects": [
     {
-      "source": "/espace-client",
+      "source": "/espace-client/",
       "destination": "https://espace-coaching-sand.vercel.app",
       "permanent": false
     },
     {
-      "source": "/app",
+      "source": "/app/",
       "destination": "https://espace-coaching-sand.vercel.app",
       "permanent": false
     },
     {
-      "source": "/domicile",
+      "source": "/domicile/",
       "destination": "/coaching-a-domicile/",
       "permanent": true
     },
     {
-      "source": "/distance",
+      "source": "/distance/",
       "destination": "/suivi-a-distance/",
       "permanent": true
     },
     {
-      "source": "/faq",
+      "source": "/faq/",
       "destination": "/questions-frequentes/",
       "permanent": true
     }
